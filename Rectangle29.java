@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Rectangle24 {
+public class Rectangle29 {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.print("Masukan jumlah baris: ");
