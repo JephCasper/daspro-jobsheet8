@@ -5,8 +5,8 @@ public class Triangle29 {
         System.out.print("Masukan nilai n = ");
         int n = sc.nextInt();
         
-        //Segitiga Biasa
-        int i = 0;
+        //Segitiga
+        int i = 1;
         while (i <= n) {
             int j = 0;
             while (j < i) {
